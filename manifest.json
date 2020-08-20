@@ -16,8 +16,8 @@
    "default_title": "Does a thing when you do a thing",
    "default_popup": "popup.html",
    "default_icon": {
-     "16": "/wynd%20pfp.png",
-     "32": "/wynd%20pfp.png"
+     "16": "/wyndpfp.png",
+     "32": "/wyndpfp.png"
    }
  }
 }
