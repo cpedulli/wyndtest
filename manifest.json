@@ -2,7 +2,7 @@
  "manifest_version": 2,
  "name": "Wynd",
  "version": "1.0.0",
- "description": "This is a sample description",
+ "description": "Do Stuff The Epic Way",
  "short_name": "Short Sample Name",
  "permissions": ["activeTab", "declarativeContent", "storage", "bookmarks"],
  "content_scripts": [
@@ -13,7 +13,7 @@
    }
  ],
  "browser_action": {
-   "default_title": "Does a thing when you do a thing",
+   "default_title": "Wynd",
    "default_popup": "popup.html",
    "default_icon": {
      "16": "/wyndpfp.png",
