@@ -16,8 +16,8 @@
    "default_title": "Does a thing when you do a thing",
    "default_popup": "popup.html",
    "default_icon": {
-     "16": "https://github.com/cpedulli/wyndtest/blob/master/wynd%20pfp.png",
-     "32": "https://github.com/cpedulli/wyndtest/blob/master/wynd%20pfp.png"
+     "16": "/wynd%20pfp.png",
+     "32": "/wynd%20pfp.png"
    }
  }
 }
